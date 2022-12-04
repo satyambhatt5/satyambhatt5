@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Satyam Bhatt</h1>
-<h3 align="center"I am passionate for Artificial Intelligence</h3>
+<h3 align="center" I am passionate for Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyambhatt5&label=Profile%20views&color=0e75b6&style=flat" alt="satyambhatt5" /> </p>
 
@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **Deep Learning & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/satyambhatt5](https://github.com/satyambhatt5)
-
 
 - 📫 How to reach me **bhattsatyam793@gmail.com**
 
