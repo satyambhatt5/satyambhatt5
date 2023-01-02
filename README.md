@@ -1,5 +1,5 @@
 
-# Satyambhatt
+# Satyam Bhatt
 
 
 <h1 align="center">Hi 👋, I'm Satyam Bhatt</h1>
