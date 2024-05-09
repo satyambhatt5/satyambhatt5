@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyambhatt5&label=Profile%20views&color=0e75b6&style=flat" alt="satyambhatt5" /> </p>
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently working as **Data Engineer**
 
-- 🌱 I’m currently learning **Deep Learning & Machine Learning**
+- 🌱 I’have Servral project for **Data engineer Deep Learning & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/satyambhatt5](https://github.com/satyambhatt5)
 
